@@ -5,5 +5,5 @@ Amber
   -user commands (refilling bowling, cleaning, play) 
 Christine
   -Siri intents
-  -animation of sprites
+  -animation of sprites.
   -character/background design (app icon)
