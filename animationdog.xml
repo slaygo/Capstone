@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/awake1" android:duration="100"/>
+    <item android:drawable="@drawable/awake2" android:duration="100"/>
+    <item android:drawable="@drawable/awake3" android:duration="100"/>
+    <item android:drawable="@drawable/awake4" android:duration="100"/>
+    <item android:drawable="@drawable/awake5" android:duration="100"/>
+    <item android:drawable="@drawable/awake6" android:duration="100"/>
+    <item android:drawable="@drawable/awake5" android:duration="100"/>
+    <item android:drawable="@drawable/awake4" android:duration="100"/>
+    <item android:drawable="@drawable/awake3" android:duration="100"/>
+    <item android:drawable="@drawable/awake2" android:duration="100"/>
+    <item android:drawable="@drawable/awake1" android:duration="100"/>
+</animation-list>
